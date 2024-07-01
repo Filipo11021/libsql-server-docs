@@ -277,7 +277,8 @@ Content-Type: application/json
 ]
 ```
 
-**Response Type:** Array<String>
+**Response Type:**
+`Array<String>`
 
 ## 6. Heap Profiling
 
